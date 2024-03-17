@@ -18,7 +18,6 @@ export class NavBar extends Component {
 								<li className="nav-item"><NavLink activestyle={{ color: '' }} className="nav-link" aria-current="page" to="/">Home</NavLink></li>
 								<li className="nav-item"><NavLink activestyle={{ color: '' }} className="nav-link" to="/business">Business</NavLink></li>
 								<li className="nav-item"><NavLink activestyle={{ color: '' }} className="nav-link" to="/entertainment">Entertainment</NavLink></li>
-								{/* <li className="nav-item"><NavLink activestyle={{ color: '' }} className="nav-link" to="/general">General</NavLink></li> */}
 								<li className="nav-item"><NavLink activestyle={{ color: '' }} className="nav-link" to="/health">Health</NavLink></li>
 								<li className="nav-item"><NavLink activestyle={{ color: '' }} className="nav-link" to="/science">Science</NavLink></li>
 								<li className="nav-item"><NavLink activestyle={{ color: '' }} className="nav-link" to="/sports">Sports</NavLink></li>
